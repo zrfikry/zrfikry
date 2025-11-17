@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front End Engineer - Crafting modern, production-ready, and performant multi-platform applications with React, Next.js, and React Native.<br><br>I started as a full-stack developer, working with PHP using Laravel framework, until I learned javascript and fell in love with front-end development. I enjoy creating user-friendly interfaces and bringing designs to life while ensuring optimal performance and responsiveness across different devices. I also enjoy playing video games and watching anime, I love games, especially the Monster Hunter franchise.<br><br>
+I started as a full-stack developer, working with PHP using Laravel framework, until I learned javascript and fell in love with front-end development. I enjoy creating user-friendly interfaces and bringing designs to life while ensuring optimal performance and responsiveness across different devices. I also enjoy playing video games and watching anime, I love games, especially the Monster Hunter franchise.<br><br>
 
 
 ## 🌐 Socials:
