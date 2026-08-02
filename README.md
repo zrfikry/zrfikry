@@ -1,6 +1,23 @@
+## 🚀 Featured Product
+**PayloadKit: Next.js 15 + Payload CMS v3 Boilerplate**
+Stop wasting days wiring up databases, auth, and UI components. I built the ultimate boilerplate combining the power of Next.js App Router with the flexibility of a native Payload CMS setup and a visual drag-and-drop page builder.
+
+[![Get PayloadKit on Gumroad](https://img.shields.io/badge/Get_PayloadKit_on_Gumroad-%23FF90E8?style=for-the-badge&logo=gumroad&logoColor=black)](https://zrfikry.gumroad.com/l/nextjs-payload-boilerplate)
+
+**What's inside:**
+- ⚡️ Next.js 15 (App Router & Turbopack)
+- 🛠 Payload CMS v3 (Native integration, no Express server)
+- 🗄️ SQLite + Drizzle ORM (Zero-config local setup)
+- 🎨 Headless UI + Tailwind CSS v4 (10+ premium components)
+- 🌗 Built-in Light/Dark mode & `next-intl` localization
+- 📝 Visual Page Builder (Drag-and-drop CMS blocks)
+
+[👉 See the full feature list and get it here!](https://zrfikry.gumroad.com/l/nextjs-payload-boilerplate)
+
+---
+
 # 💫 About Me:
 I started as a full-stack developer, working with PHP using Laravel framework, until I learned javascript and fell in love with front-end development. I enjoy creating user-friendly interfaces and bringing designs to life while ensuring optimal performance and responsiveness across different devices. I also enjoy playing video games and watching anime, I love games, especially the Monster Hunter franchise.<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zrfikry) 
@@ -13,9 +30,3 @@ I started as a full-stack developer, working with PHP using Laravel framework, u
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zrfikry&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zrfikry) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
